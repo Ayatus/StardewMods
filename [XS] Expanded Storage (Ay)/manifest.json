@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Expanded Storage (Ay)",
+  "Author": "Ayatus",
+  "Version": "2.0.0",
+  "Description": "Allows Vanilla storage to have Expanded Storage features.",
+  "UniqueID": "Ayatus.ExpandedStorage",
+  "UpdateKeys": [
+    "Nexus:7867"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "furyx639.ExpandedStorage",
+    "MinimumVersion": "1.5.0"
+  }
+}

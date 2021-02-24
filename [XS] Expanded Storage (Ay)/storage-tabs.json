@@ -1,0 +1,96 @@
+{
+  "Crops": {
+    "TabImage": "Crops.png",
+    "AllowList": [
+      "category_greens",
+      "category_flowers",
+      "category_fruits",
+      "category_vegetable"
+    ]
+  },
+"Fishing": {
+    "TabImage": "Fish.png",
+    "AllowList": [
+      "category_fish",
+      "category_sell_at_fish_shop"
+    ]
+  },
+  "Materials": {
+    "TabImage": "Minerals.png",
+    "AllowList": [
+      "category_metal_resources",
+      "category_minerals",
+      "category_gem"
+    ]
+  },
+  "Artifact": {
+    "TabImage": "Artifact.png",
+    "AllowList": [
+      "category_artifact"
+    ]
+  },
+  "Furniture": {
+    "TabImage": "Furniture.png",
+    "AllowList": [
+      "category_furniture"
+    ]
+  },
+  "Misc": {
+    "TabImage": "Misc.png",
+    "AllowList": [
+      "category_crafting",
+      "category_bait",
+      "category_big_craftable",
+      "category_building_resources",
+      "category_junk",
+      "category_monster_loot",
+      "category_tackle"
+    ]
+  },
+  "Misc2": {
+    "TabImage": "Misc.png",
+    "AllowList": [
+      "category_crafting",
+      "category_bait",
+      "category_big_craftable",
+      "category_building_resources",
+      "category_furniture",
+      "category_junk",
+      "category_monster_loot",
+      "category_tackle",
+      "category_seeds",
+      "category_fertilizer",
+      "category_metal_resources",
+      "category_minerals",
+      "category_gem",
+      "category_equipment",
+      "category_ring",
+      "category_tool",
+      "category_weapon",
+      "category_clothing",
+      "category_boots",
+      "category_hat",
+      "category_artifact"
+    ]
+  },
+  "Food": {
+    "TabImage": "Cooking.png",
+    "AllowList": [
+      "category_syrup",
+      "category_artisan_goods",
+      "category_ingredients",
+      "category_sell_at_pierres_and_marnies",
+      "category_sell_at_pierres",
+      "category_meat",
+      "category_cooking",
+      "category_milk",
+      "category_egg",
+      "category_greens",
+      "category_flowers",
+      "category_fruits",
+      "category_vegetable",
+      "category_fish",
+      "category_sell_at_fish_shop"
+    ]
+  }
+}

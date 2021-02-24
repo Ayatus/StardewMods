@@ -1,0 +1,37 @@
+{
+  "DefaultStorage": {
+    "Capacity": -1,
+    "Tabs": [
+      "Materials",
+      "Misc",
+      "Furniture",
+      "Artifact",
+      "Equipment",
+      "Clothing",
+      "Seeds",
+      "Food"
+    ]
+  },
+  "Stone Chest": {
+    "Tabs": [
+      "Materials",
+      "Misc",
+      "Furniture",
+      "Artifact",
+      "Equipment",
+      "Clothing",
+      "Seeds",
+      "Food"
+    ]
+  },
+  "Mini-Fridge": {
+    "Capacity": -1,
+    "IsFridge": true,
+    "Tabs": [
+      "Crops",
+      "Fishing",
+      "Cooking",
+      "Misc2"
+    ]
+  }
+}
