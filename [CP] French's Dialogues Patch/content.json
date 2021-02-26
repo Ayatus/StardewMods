@@ -1,0 +1,57 @@
+{
+  "Format": "1.19.0",
+  "ConfigSchema": {
+    "FairyRose": {
+      "AllowValues": "True, False",
+      "Default": "False",
+      "Description": "Remplacer Rose Féerie par Rose féerique."
+    },
+    "PrismaticShard": {
+      "AllowValues": "True, False",
+      "Default": "False",
+      "Description": "Remplacer Tesson prismatique par Éclat prismatique."
+    },
+    "Tapper": {
+      "AllowValues": "True, False",
+      "Default": "False",
+      "Description": "Remplacer Saigneur par Collecteur."
+    }
+  },
+  "Changes": [
+    {
+      "LogName": "Current patch",
+      "Action": "Include",
+      "FromFile": "Data/Data.json, Data/Dialogues.json, Data/Events.json, Data/Festivals.json, Data/Strings.json, Data/TV.json",
+      "When": {
+        "Language": "fr"
+      }
+    },
+    {
+      "LogName": "Fairy rose option",
+      "Action": "Include",
+      "FromFile": "Data/FairyRose.json",
+      "When": {
+        "Language": "fr",
+        "FairyRose": "True"
+      }
+    },
+    {
+    "LogName": "Prismatic Shard option",
+    "Action": "Include",
+    "FromFile": "Data/PrismaticShard.json",
+    "When": {
+      "Language": "fr",
+      "PrismaticShard": "True"
+    }
+  },
+  {
+      "LogName": "Tapper option",
+      "Action": "Include",
+      "FromFile": "Data/Tapper.json",
+      "When": {
+        "Language": "fr",
+        "Tapper": "True"
+      }
+    }
+  ]
+}

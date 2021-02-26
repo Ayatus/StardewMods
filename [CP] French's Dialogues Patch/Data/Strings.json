@@ -1,0 +1,38 @@
+{
+  "Changes": [
+    {
+      "LogName": "Locations",
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "FieldOfficeDonated_Reward": "Regardez-moi ça ! Avec votre don, nous avons rassemblé une autre collection complète.$h#$b#J'ai un petit quelque chose qui vous attend, dès que vous le voulez !"
+      }
+    },
+    {
+      "LogName": "Strings from CS files",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "Event.cs.1308": "Tu as fait du bon travail, mon garçon.^Tu as fait du bon travail, ma petite.#$b#La ferme %farm n’a jamais été aussi belle. Tu fais honneur à la famille.#$b#Grand-père est content.#$b#Je dois repartir dans l’autre monde, mais n’hésite pas à faire appel à moi.",
+        "Event.cs.1317": "Tu as fait du bon travail, mon garçon.^Tu as fait du bon travail, ma petite.#$b#La ferme %farm n’a jamais été aussi belle. Ça fait honneur à la famille.#$b#Grand-père est content.",
+        "Event.cs.1597": "Oh, j’ai un petit score. Je suppose que le maire Lewis n’est pas vraiment un pêcheur. Tant pis...$s",
+        "Event.cs.1758": "Quitter : {0} ?\nLe festival prendra fin après votre départ.",
+        "NPC.cs.4083": "Est-ce que tu savais que {0} ",
+        "Utility.cs.5324": "Eh bien, toutes mes félicitations %rival... Il semble que vous ayez dépassé @ de {0} points.$h",
+        "MapPage.cs.11116": "Maison en ruine",
+        "Object.cs.12735": "{0} mariné(e)",
+        "SlayMonsterQuest.cs.13767": "Ah, @ ! Alors comme ça tu nous as aidés à résoudre notre problème de monstres ? Merci !$h#$b#J’espère que tu n’as pas eu trop de problèmes...",
+        "WeedingQuest.cs.13816": "Recherche quelqu’un pour désherber tout le village. Une fois les mauvaises herbes enlevées, aller voir le maire pour le paiement. Merci !",
+        "Language.8": "Espagnol"
+      }
+    },
+    {
+      "LogName": "Strings from maps",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "Hospital.5": "\"Ne répandez pas vos microbes... Couvrez-vous la bouche et le nez en éternuant !\""
+      }
+    }
+  ]
+}

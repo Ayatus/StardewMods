@@ -1,0 +1,47 @@
+{
+  "Changes": [
+    {
+      "LogName": "Tapper Leah",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "summer_Fri": "Tu peux utiliser un collecteur pour récolter les sirops et autres liquides utiles directement des arbres.#$e#C’est un processus lent, mais le résultat peut en valoir la peine."
+      }
+    },
+    {
+      "LogName": "Tapper Craft information",
+      "Action": "EditData",
+      "Target": "Data/BigCraftablesInformation",
+      "Entries": {
+        "105": "Tapper/0/-300/Crafting -9/Placez-le sur un érable, un chêne ou un pin et attendez que le réservoir se remplisse !/true/false/0/Collecteur",
+        "264": "Heavy Tapper/0/-300/Crafting -9/À utiliser sur un érable, un chêne ou un pin et attendre que le réservoir se remplisse ! Fonctionne deux fois plus vite qu’un collecteur normal./true/false/0/Collecteur lourd"
+      }
+    },
+    {
+      "LogName": "Tapper Crafting",
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "Tapper": "388 40 334 2/Home/105/true/Foraging 3/Collecteur",
+        "Heavy Tapper": "709 30 910 1/Home/264/true/null/Collecteur lourd"
+      }
+    },
+    {
+      "LogName": "Tapper TV tip",
+      "Action": "EditData",
+      "Target": "Data/TV/TipChannel",
+      "Entries": {
+        "71": "Un collecteur ? Les cueilleurs astucieux savent comment en fabriquer. Vous pouvez vous en servir sur les arbres sauvages qui poussent partout. Les érables donnent du sirop d’érable, les chênes et les pins produisent de la résine. Le sirop d'érables est le plus précieux, mais tous les produits des arbres ont leurs utilisations !",
+        "158": "Voici une petite idée... créez un verger d’arbres sauvages ! Utilisez un collecteur sur ces arbres et récoltez leur précieux sirop. Ou pas ! C’est à vous de voir."
+      }
+    },
+    {
+      "LogName": "Tapper Profession",
+      "Action": "EditData",
+      "Target": "Strings/UI",
+      "Entries": {
+        "LevelUp_ProfessionName_Tapper": "Acériculteur"
+      }
+    }
+  ]
+}

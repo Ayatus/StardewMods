@@ -1,0 +1,13 @@
+{
+  "Changes": [
+    {
+      "LogName": "Fairy Rose",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "425": "Fairy Seeds/100/-300/Seeds -74/Graines de rose féerique/À planter en automne. Il faut 12 jours pour produire une fleur mystérieuse. Couleurs assorties.",
+        "595": "Fairy Rose/290/18/Basic -80/Rose féerique/Une vieille légende populaire raconte que la douce odeur de cette fleur attire les fées."
+      }
+    }
+  ]
+}

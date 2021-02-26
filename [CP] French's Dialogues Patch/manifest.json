@@ -1,0 +1,14 @@
+{
+  "Name": "Fixed truncated French dialogues",
+  "Author": "Ayatus",
+  "Version": "2.1.0",
+  "Description": "Répare les dialogues tronqués et autres bricoles.",
+  "UniqueID": "Ayatus.FixFrenchDialogues",
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": [
+    "Nexus:3729"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

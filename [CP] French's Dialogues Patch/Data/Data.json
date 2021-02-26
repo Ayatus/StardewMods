@@ -1,0 +1,71 @@
+{
+  "Changes": [
+    {
+      "LogName": "Big craftables information",
+      "Action": "EditData",
+      "Target": "Data/BigCraftablesInformation",
+      "Entries": {
+        "90": "Bone Mill/0/-300/Crafting -9/Transforme les objets faits à partir d’ossements en engrais./true/true/0/Moulin à os"
+      }
+    },
+    {
+      "LogName": "Crafting recipes",
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "Bone Mill": "881 10 330 3 390 20/Home/90/true/null/Moulin à os"
+      }
+    },
+    {
+      "LogName": "Hats",
+      "Action": "EditData",
+      "Target": "Data/hats",
+      "Entries": {
+        "84": "Radioactive Goggles/Ne fournis pas de protection réelle contre les radiations./true/true/Lunettes radioactives",
+        "85": "Swashbuckler Hat/Le look classique d'un bretteur./false/true/Chapeau de bretteur",
+        "86": "Qi Mask/???/hide/true/Masque de Qi",
+        "87": "Star Helmet/Un chapeau rouge avec des étoiles dessus./false/true/Chapeau étoilé",
+        "88": "Sunglasses/Elles vous donnent un air décontracté./true/true/Lunettes de soleil",
+        "89": "Goggles/Elles vous donneront la sensation d’être en sécurité./true/true/Lunettes",
+        "90": "Forager's Hat/C’est un pur bonheur pour un cueilleur./false/true/Chapeau de cueilleur",
+        "91": "Tiger Hat/Ça vous fait ressembler à un tigre magnifique./hide/true/Chapeau de tigre",
+        "92": "???/???/hide/true/???"
+      }
+    },
+    {
+      "LogName": "Extra Dialogue",
+      "Action": "EditData",
+      "Target": "Data/ExtraDialogue",
+      "Entries": {
+        "Morris_Greeting": "Bienvenue chez JojaMart ! Comment vas-tu aujourd’hui ?#$b#Je ne crois pas avoir fait ta connaissance. Je m’appelle Morris, responsable de la satisfaction clientèle chez Joja.#$b#Si tu décides de devenir membre Joja, je me ferai un plaisir de t'aider à faire ton entrée dans cette joyeuse nouvelle vie."
+      }
+    },
+    {
+      "LogName": "Mail Dialogue",
+      "Action": "EditData",
+      "Target": "Data/mail",
+      "Entries": {
+        "willyHours": "Bonne nouvelle !^^Ce bon vieux rafiot est à nouveau en état de naviguer, et tout ça grâce à toi.^^Passe quand tu veux par l'arrière-boutique quand tu veux aller faire un tour.^^Ma boutique est maintenant ouverte à 8h du matin tous les jours, pour pouvoir démarrer la journée plus tôt.^^-Willy[#]Le bateau de Willy",
+        "WillyTropicalFish": "@,^^félicitations pour cette campagne de pêche réussie sur l'île. Je suis fier de toi !^^Tiens, prend cet aquarium très spécial. Ça fera une superbe décoration chez toi.^^-Willy%item furniture 2312 %%[#]Défi tropical de Willy"
+      }
+    },
+    {
+      "LogName": "Object information",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "78": "Cave Carrot/25/12/Basic -81/Carotte des cavernes/Aliment riche en amidon qu'on trouve dans les grottes. La carotte aide les mineurs à travailler plus longtemps.",
+        "336": "Gold Bar/250/-300/Basic -15/Lingot d'or/Lingot d'or pur.",
+        "337": "Iridium Bar/1000/-300/Basic -15/Lingot d'iridium/Lingot d'iridium pur."
+      }
+    },
+    {
+      "LogName": "Quests",
+      "Action": "EditData",
+      "Target": "Data/Quests",
+      "Entries": {
+        "12": "ItemHarvest/Fonte/Maintenant que vous avez construit une fournaise, vous pouvez faire fondre du métal. Selon les instructions de Clint, si vous placez 5 minerais de cuivre et 1 morceau de charbon dans la fournaise, vous obtiendrez un lingot de cuivre./Utilisez votre fournaise pour faire fondre un lingot de cuivre./334 1/-1/0/-1/true"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Changes": [
+    {
+      "LogName": "Prismatic Shard",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "74": "Prismatic Shard/2000/-300/Minerals -2/Éclat prismatique/Substance puissante et très rare, d'origine inconnue.",
+        "279": "Magic Rock Candy/5000/200/Cooking -7/Sucre d'orge magique/Un bonbon rare et puissant infusé de l'essence même d'un éclat prismatique./food/0 0 2 0 5 0 0 0 0 1 5 5/720"
+      }
+    },
+    {
+      "LogName": "Prismatic Shard",
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "WitchHut_EvilShrineLeft": "-Sanctuaire Sombre de l’Égoïsme-Vos enfants se transformeront en colombes et s’envoleront...^Faire une offrande d’un éclat prismatique ?"
+      }
+    },
+    {
+      "LogName": "Prismatic Shard",
+      "Action": "EditData",
+      "Target": "Strings/Notes",
+      "Entries": {
+        "15": "Rapport de technologie !\n\nLes plans d’une machine avancée appelée \"Cristalarium\" ont récemment été publiés.\nCette machine peut faire pousser des cristaux à partir de presque rien, fournissant à son propriétaire une quantité infinie de gemmes précieuses !\nVoici comment ça fonctionne : placez un joyau de votre choix à l’intérieur du cristalarium...\nmaintenant, soyez patient, cela peut prendre plusieurs jours... mais le cristalarium finira par produire une copie de ce que vous avez placé à l’intérieur !\nVous saurez que la production est terminée quand il cesse de bouger. Après avoir retiré votre gemme, le cristalarium commencera à travailler sur une autre copie... Vous n’aurez jamais besoin de le réapprovisionner à moins que vous ne souhaitiez changer le type de gemme qu’il produit !\nMalheureusement, le cristalarium ne fonctionne pas avec la pierre précieuse extrêmement rare connue sous le nom de \"éclat prismatique\"... Pour une raison quelconque, le champ électromagnétique du éclat interagit négativement avec le cristalarium."
+      }
+    },
+    {
+      "LogName": "Prismatic Shard",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "MeleeWeapon.cs.14122": "L’éclat prismatique change de forme sous vos yeux ! Son pouvoir est exceptionnel.^^Vous avez trouvé =L’épée Galactique=  ^"
+      }
+    }
+  ]
+}

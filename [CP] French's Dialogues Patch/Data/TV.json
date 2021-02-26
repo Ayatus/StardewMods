@@ -1,0 +1,21 @@
+{
+  "Changes": [
+    {
+      "LogName": "Cooking channel",
+      "Action": "EditData",
+      "Target": "Data/TV/CookingChannel",
+      "Entries": {
+        "1": "Stir Fry/Sauté de légumes ! C’est le moyen idéal pour avoir des légumes sains dans votre assiette. Faites revenir les légumes dans un peu d’huile de sésame et ajoutez beaucoup de gingembre frais et d’ail. Sentez-moi ça... ça sent tellement bon.",
+        "11": "Glazed Yams/Ignames glacées ! C’est la saison des ignames, et quel meilleur moyen de profiter de ces délicieux tubercules que de les enduire d’un glaçage doux et collant ? Vous aurez besoin d’une belle igname bien mûre et de tout un tas de sucre. Voici la recette..."
+      }
+    },
+    {
+      "LogName": "Tip channel",
+      "Action": "EditData",
+      "Target": "Data/TV/TipChannel",
+      "Entries": {
+        "4": "Guide spécial pour les habitants de Stardew Valley. Cherchez des oignons de printemps au sud-ouest du village, où la rivière rencontre la mer. Vous pouvez parfois en trouver tout un tas qui pousse hors de la terre."
+      }
+    }
+  ]
+}

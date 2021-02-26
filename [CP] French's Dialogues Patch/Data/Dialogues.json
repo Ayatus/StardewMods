@@ -1,0 +1,63 @@
+{
+  "Changes": [
+    {
+      "LogName": "Abigail dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Abigail",
+      "Entries": {
+        "Sun_old": "$p 17#Je suppose que tu pensais que rien ne se passerait, pas vrai ?$u|Peut-être qu'un vilain fantôme apparaîtrait !"
+      }
+    },
+    {
+      "LogName": "Haley dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Haley",
+      "Entries": {
+        "Thu": "#$1 HaleyClothes#J’ai décidé de faire un peu de rangement dans mes vêtements aujourd’hui. Je vais jeter tous mes vêtements démodés de l’année dernière pour faire de la place aux nouveaux !#$e#*Soupir* Je mangerais bien un muffin.#$e#Tu voulais quelque chose ?",
+        "summer_Sat_12": "Mmm... ça semble être beaucoup de travail.",
+        "fall_Tue8": "Je commence à apprécier l'odeur de la terre. N'est-ce pas bizarre ?#$e#Je pense que c'est parce que tu es là tout le temps.$h"
+      }
+    },
+    {
+      "LogName": "Leah dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "summer_Sat": "L’eau qui coule garde ma maison un peu plus fraîche en été.#$e#Je ne supporte pas très bien la chaleur."
+      }
+    },
+    {
+      "LogName": "Leo Mainland dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/LeoMainland",
+      "Entries": {
+        "Tue10": "Je suis sûre que Jas et Vincent pensaient que j'étais bizarre au début. J’ai accidentellement crié en classe à quelques reprises... ce qui n’a pas aidé.$s#$e#Il a fallu un temps d'adaptation pour tout le monde. Mais nous sommes de bons amis maintenant !$h",
+        "Sat10": "@ ? Euh... Je suis un peu gêné de te demander ça...$u#$b#Mais... Tu crois qu'un jour Jas aimerait être ma petite amie ?$u#$b#Ou je suis trop bizarre ?$s#$e#Hahaha... peu importe. On verra bien un jour.$h"
+      }
+    },
+    {
+      "LogName": "Marriage dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "Entries": {
+        "Indoor_Day_3": "Est-ce que tu as fait des rêves étranges cette nuit ?#$e#Moi oui, mais je me souviens seulement, que ça avait quelque chose à voir avec... %adj %noun. Bizarre.$s#$e#Hé hé. Les rêves ne veulent rien dire, n’est-ce pas, mon amour ?$l#$e#Enfin bref, nous ne pouvons pas passer toute la journée à bavasser. Tu as du travail à faire !"
+      }
+    },
+    {
+      "LogName": "Shane marriage dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueShane",
+      "Entries": {
+        "TwoKids_3": "*Soupir*... Si seulement nous pouvions envoyer les enfants dans un camp de travail de Joja pendant un certain temps...#$e#Je plaisante.$h"
+      }
+    },
+    {
+      "LogName": "Shane dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Shane",
+      "Entries": {
+        "JojaMart": "%Shane travaille. Il n'a pas l'air de vouloir discuter."
+      }
+    }
+  ]
+}

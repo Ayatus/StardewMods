@@ -1,0 +1,33 @@
+{
+  "Changes": [
+    {
+      "LogName": "Festival fall 16",
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Lewis": "Eh bien @, c’est le grand jour... Notre festival le plus important de l’année, le \"Grand Festival de Stardew Valley\".#$b#Si vous souhaitez participer en installant un présentoir de fermiers, j’ai laissé un stand vide pour vous. Faites-le-moi savoir une fois que vous aurez tout mis en place afin que nous puissions le voir et voter."
+      }
+    },
+    {
+      "LogName": "Festival winter 8",
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Penny": "$y 'Mmm... Quel genre de bonhomme de neige devrions-nous faire ?_Genre classique. Nez de carotte, chapeau haut-de-forme, écharpe._ J’imagine que c’est peut-être préférable de s’en tenir aux classiques, non ?$h_Quelque chose d’un peu drôle. Des antennes en stalagmites, yeux en pomme de pin._D’accord ! Cela semble amusant.$h_Les bonshommes de neige sont ennuyeux. Il faut faire preuve d’originalité !_Euh, d’accord... Je pense que je vais m’en tenir à quelque chose de plus conventionnel.'",
+        "Willy": "$y 'Salut, @. Tu participes au concours de pêche sous glace ?_Oui. Je ferai de mon mieux !_C’est une bonne mentalité !$h_Oui, et je vais te battre !_C’est ce que nous verrons.$h_Pour être honnête, non. Je ne sais pas très bien pêcher._Eh bien, considère ça comme un bon entraînement !$h'"
+      }
+    },
+    {
+      "LogName": "Festival winter 25",
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Robin": "Salut, @. Tu peux venir te joindre à nous pour notre repas familial si tu as besoin de compagnie.$h",
+        "Emily": "$y '@ ! Qu’espères-tu trouver sous l’arbre aux esprits ?_Un nouvel arrosoir._Du travail et pas d’amusement ? Ce n’est pas très drôle.$s_Un pichet d’hydromel épicé._Oh... j’aime beaucoup cette idée. N’oublie pas de me faire goûter.$h_Une paire de bottes à la mode._Je vois. Ce serait un beau cadeau !'",
+        "Leah": "Gus m’a raconté comment il fabrique ses sucres d'orge artisanaux. *Bâille*$u#$e#Je pense qu'il a mis trop de lait de poule à la cannelle.",
+        "Gus": "Fabriquer des sucres d'orge est un art raffiné. Vous devez parcourir les contrées pour trouver les meilleurs ingrédients. Ils ne sont pas si faciles que ça à trouver !$h#$e#J’utilise habituellement des fruits exotiques pour ma première fournée de sucre d'orge. Cette couleur rouge vif est incomparable... Et tous les produits utilisés sont naturels !#$e#Oh, tu veux connaître le secret de mes doubles sucres d'orge de luxe ? D’accord, mais tu dois me promettre d’en garder le secret absolu. *Chuchote* J’ajoute une goutte de vanille dans la mixture pour la partie blanche du sucre d'orge ce qui relève la saveur de cerise. $h#$e#Bien sûr, les sucres d'orge à la menthe poivrée sont les plus courants, et j’en fais toujours tout un lot.#$e#Hé, tu as l’air de t’endormir. Est-ce que ça va ?$s",
+        "Willy": "$y 'Veux-tu entendre la légende de l’étoile hivernale ? _Oui_Dans le ciel étoilé d’hiver, il existe une étoile visible uniquement dans cette vallée. Personne ne sait pourquoi... mais autrefois, les gens venaient de loin pour la voir.*Ils croyaient que quiconque poserait les yeux sur l’étoile hivernale aurait la chance de faire bonne fortune toute l’année suivante. Certains prétendent même que le fruit mystérieux connu pour sa forme étoilée est lié d’une certaine manière à l’étoile hivernale._Non merci._Comme tu veux.'"
+      }
+    }
+  ]
+}
