@@ -3,12 +3,11 @@
     "TabImage": "Crops.png",
     "AllowList": [
       "category_greens",
-      "category_flowers",
       "category_fruits",
       "category_vegetable"
     ]
   },
-"Fishing": {
+  "Fishing": {
     "TabImage": "Fish.png",
     "AllowList": [
       "category_fish",

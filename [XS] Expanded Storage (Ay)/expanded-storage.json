@@ -1,6 +1,5 @@
 {
-  "DefaultStorage": {
-    "Capacity": -1,
+  "Chest": {
     "Tabs": [
       "Materials",
       "Misc",
@@ -25,7 +24,6 @@
     ]
   },
   "Mini-Fridge": {
-    "Capacity": -1,
     "IsFridge": true,
     "Tabs": [
       "Crops",
