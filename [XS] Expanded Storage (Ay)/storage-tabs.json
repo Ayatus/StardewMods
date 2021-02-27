@@ -23,7 +23,7 @@
     ]
   },
   "Artifact": {
-    "TabImage": "Artifact.png",
+    "TabImage": "Rings.png",
     "AllowList": [
       "category_artifact"
     ]
