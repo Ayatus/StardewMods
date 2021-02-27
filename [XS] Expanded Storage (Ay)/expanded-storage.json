@@ -25,7 +25,6 @@
     ]
   },
   "Mini-Fridge": {
-    "IsFridge": true,
     "Tabs": [
       "Crops",
       "Fishing",
