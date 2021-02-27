@@ -12,6 +12,7 @@
     ]
   },
   "Stone Chest": {
+    "OpenSound": "barrelBreak",
     "Tabs": [
       "Materials",
       "Misc",
