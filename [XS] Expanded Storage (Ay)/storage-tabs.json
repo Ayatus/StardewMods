@@ -1,12 +1,4 @@
 {
-  "Crops": {
-    "TabImage": "Crops.png",
-    "AllowList": [
-      "category_greens",
-      "category_fruits",
-      "category_vegetable"
-    ]
-  },
   "Fishing": {
     "TabImage": "Fish.png",
     "AllowList": [
