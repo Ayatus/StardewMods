@@ -1,5 +1,6 @@
 {
   "Chest": {
+    "Capacity": -1,
     "Tabs": [
       "Materials",
       "Misc",
@@ -12,7 +13,7 @@
     ]
   },
   "Stone Chest": {
-    "OpenSound": "barrelBreak",
+    "Capacity": 0,
     "Tabs": [
       "Materials",
       "Misc",
@@ -25,6 +26,7 @@
     ]
   },
   "Mini-Fridge": {
+    "Capacity": -1,
     "Tabs": [
       "Crops",
       "Fishing",
